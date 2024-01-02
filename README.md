@@ -2,9 +2,10 @@
 This repository contains sample datasets and .pbix files that are used to demo in my PL-300 Practice Test Course in Udemy.
 Course Link: https://ravikirans.com/udemy/tests/pl-300
 
+
 The following topics are covered in this PL-300 practice test course:
 
-Prepare the data (25–30%)
+**Prepare the data (25–30%)**
 
 Get data from data sources
 

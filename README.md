@@ -7,7 +7,7 @@ The following topics are covered in this PL-300 practice test course:
 
 **Prepare the data (25–30%)**
 
-Get data from data sources
+**Get data from data sources**
 
 Identify and connect to a data source
 
